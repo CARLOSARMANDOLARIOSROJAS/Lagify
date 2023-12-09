@@ -23,13 +23,13 @@ Asegúrate de tener instalado y configurado Docker antes de comenzar.
 1. Clonar el repositorio en la máquina local:
    
    ```sh
-   git clone https://github.com/TRHZ/GreenLinkManager.git
+   git clone https://github.com/CARLOSARMANDOLARIOSROJAS/Lagify.git
    ```
 
 2. Navegar al directorio del proyecto:
    
    ```sh
-   cd GreenLinkManager
+   cd Lagify
    ```
 
 3. Ejecutar el siguiente comando para iniciar los contenedores:
